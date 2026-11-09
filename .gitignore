@@ -1,0 +1,17 @@
+agreement/
+raw_data/
+cleaned_data/
+database/
+dashboard/
+report/
+tracking_log/
+
+.DS_Store
+.env*
+*.db
+*.sqlite*
+*.xlsx
+*.pbix
+*.pdf
+*.csv
+!/sample_data/*.csv
